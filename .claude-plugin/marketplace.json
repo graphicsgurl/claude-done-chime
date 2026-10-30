@@ -1,0 +1,5 @@
+{
+  "name": "claude-done-chime",
+  "owner": { "name": "graphicsgurl" },
+  "plugins": [{ "name": "done-chime", "source": "./" }]
+}
